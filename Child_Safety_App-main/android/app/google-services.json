@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "67372471398",
+    "project_id": "child-safe-3878d",
+    "storage_bucket": "child-safe-3878d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67372471398:android:112b53c750a783c214c9a7",
+        "android_client_info": {
+          "package_name": "com.example.child_safe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67372471398-dqvve1hbvfrdtdu8pk91mmqsir87rspc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9AImiEJaC4j_DghdNqFZRUTe895BKwwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67372471398-dqvve1hbvfrdtdu8pk91mmqsir87rspc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "67372471398-jbnenmehned5bbhn9iuba63gp8oqsbhk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.childSafe"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
